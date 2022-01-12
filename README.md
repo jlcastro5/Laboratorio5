@@ -31,31 +31,17 @@
 
    ![](https://github.com/jlcastro5/Laboratorio5/blob/4a52e625462a077beefa5c8980c88b95151d153a/CircuitoEsquematico.PNG)
    
-   ![](https://github.com/jlcastro5/Laboratorio5/blob/4a52e625462a077beefa5c8980c88b95151d153a/Figue2.PNG)
+   ![]()
    
    ![]()
    
-   ![](https://github.com/jlcastro5/Laboratorio5/blob/4a52e625462a077beefa5c8980c88b95151d153a/Figura3.PNG)
-   
+   ![]()
+    
    ![]()
    
-   ![](https://github.com/jlcastro5/Laboratorio5/blob/4a52e625462a077beefa5c8980c88b95151d153a/Figura4.PNG)
+   ![]() 
    
    ![]()
-   
-   ![](https://github.com/jlcastro5/Laboratorio5/blob/4a52e625462a077beefa5c8980c88b95151d153a/Figura5.PNG)
-   
-   ![]()
-   
-   ![](https://github.com/jlcastro5/Laboratorio5/blob/4a52e625462a077beefa5c8980c88b95151d153a/CircuitoEsquematico.PNG)
-   
-   ![]()
-   
-   ![](https://github.com/jlcastro5/Laboratorio5/blob/4a52e625462a077beefa5c8980c88b95151d153a/Figura6.PNG)
-   
-   ![]()
-   
-   ![](https://github.com/jlcastro5/Laboratorio5/blob/4a52e625462a077beefa5c8980c88b95151d153a/Figura7.PNG)
    
    ![]()
    
