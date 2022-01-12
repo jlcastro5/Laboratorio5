@@ -43,17 +43,17 @@
    
    ![](https://github.com/jlcastro5/Laboratorio5/blob/90b65b0d93f936c448ac4c90a8b91cae7bd8aa7a/CircuitoOriginal.PNG)
    
-   ![]()
+   ![](https://github.com/jlcastro5/Laboratorio5/blob/f51cc14a4a081223eba42339d110e77875b2834e/CircuitoThevenin.PNG)
    
    Tablas de valores obtenidos 
    
-   ![]()
+   ![](https://github.com/jlcastro5/Laboratorio5/blob/f51cc14a4a081223eba42339d110e77875b2834e/Tabla1.PNG)
    
-   ![]()
+   ![](https://github.com/jlcastro5/Laboratorio5/blob/f51cc14a4a081223eba42339d110e77875b2834e/Tabla2.PNG)
    
    Calculo de error
    
-   ![]()
+   ![](https://github.com/jlcastro5/Laboratorio5/blob/f51cc14a4a081223eba42339d110e77875b2834e/CalculoError.PNG)
 
   
 5. VIDEO
