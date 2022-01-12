@@ -31,17 +31,17 @@
 
    ![](https://github.com/jlcastro5/Laboratorio5/blob/4a52e625462a077beefa5c8980c88b95151d153a/CircuitoEsquematico.PNG)
    
-   ![]()
+   ![](https://github.com/jlcastro5/Laboratorio5/blob/90b65b0d93f936c448ac4c90a8b91cae7bd8aa7a/voltaje1.PNG)
    
-   ![]()
+   ![](https://github.com/jlcastro5/Laboratorio5/blob/90b65b0d93f936c448ac4c90a8b91cae7bd8aa7a/voltaje2.PNG)
    
-   ![]()
+   ![](https://github.com/jlcastro5/Laboratorio5/blob/90b65b0d93f936c448ac4c90a8b91cae7bd8aa7a/voltajethevenin.PNG)
     
-   ![]()
+   ![](https://github.com/jlcastro5/Laboratorio5/blob/4a52e625462a077beefa5c8980c88b95151d153a/CircuitoEsquematico.PNG)
    
-   ![]() 
+   ![](https://github.com/jlcastro5/Laboratorio5/blob/90b65b0d93f936c448ac4c90a8b91cae7bd8aa7a/ResistenciaThevenin.PNG) 
    
-   ![]()
+   ![](https://github.com/jlcastro5/Laboratorio5/blob/90b65b0d93f936c448ac4c90a8b91cae7bd8aa7a/CircuitoOriginal.PNG)
    
    ![]()
    
