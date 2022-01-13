@@ -2,12 +2,21 @@
 1. OBJETIVOS 
 
    Objetivo general
-   * 
+   
+   * Analizar y comprobar de forma teorica y experimental veracidad que tiene el Teorema de Thevenin con respecto a los voltajes y corrientes de un circuito electrico, esto se llevara a cabo mediante el desarrollo del presente laboratorio que abordará temas conocidos en la asignatura aplicado en un circuito eléctrico mixto planteado por el tutor de la asignatura, cabe recalcar que el presente circuito ya ha sido resuelto mediante un simulador virtual, por lo que se espera resultados similares, se utilizara Tinkerkad y se establecera el porcentaje de error que tiene el metodo con respecto a los datos obtenidos mediante la simulacion.
+
 
    Objetivos específicos
    
-   
-   * 
+   * Identificar el circuito electrico equivalente de Thevenin dentro de un circuito electrico
+
+   * Conocer la resistencia equivalente para las distintas fuentes de corriente y como estas interactúan con los componentes que integran dicho circuito.
+
+   * Identificar que tipo de nodos pueden presentarse dentro de un circuito electrico y determinar los nodos principales y nodo referencial.
+
+   * Comprender el uso de la ley de Kirchhoff y como aplicarlo dentro de un circuito mixto utilizando simuladores virtuales que permitan su corroboración o en su defecto permita la localización de fallas.
+
+   * Identificar las diferencias obtenidas por medio de la ejecución de un circuito mixto, dichas respuestas serán obtenidas de manera teórica, experimental y de simuladores.
    
 2. MARCO TEORICO
 
