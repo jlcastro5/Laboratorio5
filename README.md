@@ -12,11 +12,10 @@
 
    * Conocer la resistencia equivalente para las distintas fuentes de corriente y como estas interactúan con los componentes que integran dicho circuito.
 
-   * Identificar que tipo de nodos pueden presentarse dentro de un circuito electrico y determinar los nodos principales y nodo referencial.
+   * Identificar la resistencia equivalente o la resistencia Thevenin.
 
-   * Comprender el uso de la ley de Kirchhoff y como aplicarlo dentro de un circuito mixto utilizando simuladores virtuales que permitan su corroboración o en su defecto permita la localización de fallas.
+   * Comprender el uso de las leyes de Kirchhoff y como aplicarlo dentro de un circuito mixto utilizando simuladores virtuales que permitan su corroboración o en su defecto permita la localización de fallas.
 
-   * Identificar las diferencias obtenidas por medio de la ejecución de un circuito mixto, dichas respuestas serán obtenidas de manera teórica, experimental y de simuladores.
    
 2. MARCO TEORICO
 
@@ -127,12 +126,12 @@
   
 5. VIDEO
 
-    https://www.youtube.com/watch?v=4nc22-8JJ1Y
+   
 
 
 6. CONCLUSIONES
 
-      * 	
+      * 	El teorema de Thevenin han permitido obtener buenos resultados, entre los datos obtenidos mediante el desarrollo teórico y la simulación, mismos que fueron recopilados desde tinkercad. Considerando que los elementos son ideales, podemos concluir que los datos obtenidos en este circuito eléctrico a partir del teorema de Thevenin son precisos, llegando a tener 99.9%  de exactitud con respecto a la corriente y un 99.6% de exactitud en el voltaje, por lo que concluimos que el método es muy fiable para resolver este tipo de circuitos eléctricos.
 
 
 7. BIBLIOGRAFÍA 
