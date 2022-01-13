@@ -135,7 +135,7 @@
 
 6. CONCLUSIONES
 
-      * 	El teorema de Thevenin han permitido obtener buenos resultados, entre los datos obtenidos mediante el desarrollo teórico y la simulación, mismos que fueron recopilados desde tinkercad. Considerando que los elementos son ideales, podemos concluir que los datos obtenidos en este circuito eléctrico a partir del teorema de Thevenin son precisos, llegando a tener 99.9%  de exactitud con respecto a la corriente y un 99.6% de exactitud en el voltaje, por lo que concluimos que el método es muy fiable para resolver este tipo de circuitos eléctricos.
+* El teorema de Thevenin han permitido obtener buenos resultados, entre los datos obtenidos mediante el desarrollo teórico y la simulación, mismos que fueron recopilados desde tinkercad. Considerando que los elementos son ideales, podemos concluir que los datos obtenidos en este circuito eléctrico a partir del teorema de Thevenin son precisos, llegando a tener 99.9%  de exactitud con respecto a la corriente y un 99.6% de exactitud en el voltaje, por lo que concluimos que el método es muy fiable para resolver este tipo de circuitos eléctricos.
 
 
 7. BIBLIOGRAFÍA 
