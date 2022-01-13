@@ -20,7 +20,7 @@
    
 2. MARCO TEORICO
 
-   ![]()
+   ![](https://github.com/jlcastro5/Laboratorio5/blob/2a674dd89ceefd2ecd5bac086b88598c87ae8e69/thevenin.jpeg)
 
 3. EXPLICACION DEL PROCEDIMIENTO
    
