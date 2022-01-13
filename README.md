@@ -8,11 +8,15 @@
 
    Objetivos específicos
    
-   * Identificar el circuito electrico equivalente de Thevenin dentro de un circuito electrico
+   * Identificar el circuito electrico equivalente de Thevenin dentro de un circuit complejo.
+   
+   * Extraer el elemento donde se requiere hacer el estudio y analizar el circuito por medio de un corto. 
 
-   * Conocer la resistencia equivalente para las distintas fuentes de corriente y como estas interactúan con los componentes que integran dicho circuito.
+   * Conocer la resistencia equivalente o la resistencia Thevenin  y como estas interactúan con los componentes que integran dicho circuito.
 
-   * Identificar la resistencia equivalente o la resistencia Thevenin.
+   * Calcular el valor del voltaje de Thevenin y la resistencia Thevenin para resmplazar en un cirtuito simple en serie.
+   
+   * Introducir la recistencia que se pretende estudiar en el circuito en serie simple.
 
    * Comprender el uso de las leyes de Kirchhoff y como aplicarlo dentro de un circuito mixto utilizando simuladores virtuales que permitan su corroboración o en su defecto permita la localización de fallas.
 
